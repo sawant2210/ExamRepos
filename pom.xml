@@ -7,6 +7,12 @@
 	<packaging>war</packaging>
 	<name>Hello World Java</name>
 	<description>Learn Java JSP and Servlet</description>
+	
+	<properties>
+		<jdk.version>1.7</jdk.version>
+		<junit.version>4.11</junit.version>
+		
+	</properties>
 
 	<dependencies>
 		<dependencies>
