@@ -9,6 +9,14 @@
 	<description>Learn Java JSP and Servlet</description>
 
 	<dependencies>
+		<dependencies>
+
+		<!-- Unit Test -->
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>${junit.version}</version>
+		</dependency>
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
